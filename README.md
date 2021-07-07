@@ -8,13 +8,13 @@ In this project, the stock data is analyzed. Using the VBA Loop and Condition co
 1. **Input Box**
 
 Use input box to get the year of data to be analyzed.
-![Input box](/resources/Inputbox.png)
+![Input box](/Resources/Inputbox.png)
 
 2. **Result of 2017/2018 before the refactoring**
 
-![2017 before](/resources/Run-time 2017.png)
+![2017 before](/Resources/Run-time 2017.png)
 
-![2018 before](/resources/Run-time 2017.png)
+![2018 before](/Resources/Run-time 2017.png)
 
 On my PC, the run time is around **0.8s before** the refactoring.
 
@@ -22,7 +22,7 @@ On my PC, the run time is around **0.8s before** the refactoring.
 
 
 
-![Outcomes Based on Goals](/resources/Outcomes_vs_Goals.png)
+![Outcomes Based on Goals](/Resources/Outcomes_vs_Goals.png)
 
 
 
