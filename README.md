@@ -1,12 +1,34 @@
 # stocks-analysis
 ## Project Overview
-> : Explain the purpose of this analysis.
+> Purpose of this analysis
+
+In this project, the stock data is analyzed. Using the VBA Loop and Condition code, Total Volume and Return Rates can be calculated. Using conditional formatting, return rates are shown in colors. Using Index in the Loop, monitored running time is shortened.
 
 ## Project Results
+1. **Input Box**
 
-: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+Use input box to get the year of data to be analyzed.
+![Input box](/resources/Inputbox.png)
+
+2. **Result of 2017/2018 before the refactoring**
+
+![2017 before](/resources/Run-time 2017.png)
+
+![2018 before](/resources/Run-time 2017.png)
+
+On my PC, the run time is around **0.8s before** the refactoring.
+
+3. **Refactoring**
+
+
+
+![Outcomes Based on Goals](/resources/Outcomes_vs_Goals.png)
+
+
 
 ## Summary
+
+
 
 ### What are the advantages or disadvantages of refactoring code?
 
