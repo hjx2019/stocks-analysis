@@ -37,9 +37,9 @@ On my PC, the run time is around **0.8s before** the refactoring.
 
 > New run-time is about **0.14s**, which is significantly faster than **0.8s**. Refactoring succeed!
 
-![Result 2017 after](/Resources/Run-Time-Refactored2017.png)
+![Result 2017 after](/Resources/VBA_Challenge_2017.png)
 
-![Result 2018 after](/Resources/Run-Time-Refactored2018.png)
+![Result 2018 after](/Resources/VBA_Challenge_2018.png)
 
 
 ## Summary
